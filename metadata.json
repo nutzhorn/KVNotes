@@ -1,0 +1,5 @@
+{
+  "name": "KVNotes",
+  "description": "A modern, responsive note-taking application interfacing with Cloudflare Workers KV.",
+  "requestFramePermissions": []
+}
